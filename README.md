@@ -1,8 +1,8 @@
-👋 Hi there, I'm **Lofe**.<br>
+# 👋 Hi there, I'm **Lofe**.<br>
 › https://lofe.dev/<br>
 › https://github.com/lofeofbread<br>
 
-### Technologies I use
+## › Technologies I use
 - JavaScript
 - HTML5 
 - Nuxt.js (beginner)
@@ -14,5 +14,5 @@
 - Lua
 - Python (learning)
 
-### Hiring me
+## › Hiring me
 Interested in hiring me? I do not currently take commissions, I will seek a position only if I am interested.
