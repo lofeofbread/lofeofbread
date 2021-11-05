@@ -15,4 +15,4 @@
 - Python (learning)
 
 ## › Hiring me
-Interested in hiring me? I do not currently take commissions, I will seek a position only if I am interested.
+no
