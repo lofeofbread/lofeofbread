@@ -1,18 +1,12 @@
-# 👋 Hi there, I'm **Lofe**.<br>
-› https://lofe.dev/<br>
-› https://github.com/lofeofbread<br>
-
-## › Technologies I use
-- JavaScript
-- HTML5 
-- Nuxt.js (beginner)
-- Vue.js (beginner)
-- Tailwind CSS
-- Windi CSS
-- Node.js
-- TypeScript (learning)
-- Lua
-- Python (learning)
-
-## › Hiring me
-no
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
