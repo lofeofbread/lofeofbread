@@ -1,6 +1,6 @@
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
-<p align="center"><strong>We failed to get this GitHub user's README.md.</strong></p>
+<p align="center"><strong>404 Not Found</strong></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
