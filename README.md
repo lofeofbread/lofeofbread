@@ -7,10 +7,11 @@
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
 </p>
-<p></p>
-<p></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&cover_image=true&theme=novatorem&bar_color=dc2525&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&redirect=true)
+
+<p></p>
+<p></p>
 
 
 </p>
