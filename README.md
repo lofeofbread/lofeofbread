@@ -1,2 +1,3 @@
-<h3>👋 Hi there</h3>
-I'm <a href="https://lofe.dev">Lofe</a> - backend developer. Professional retard<br>
+<h2>👋 Hi</h2>
+
+I'm <a href="https://lofe.dev">Lofe</a>. I don't take jobs at the minute, no matter the pay - apologies.
