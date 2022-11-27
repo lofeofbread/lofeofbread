@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gkf59yqpo0s8it9khvh336ct7&redirect=true)
+ragh
